@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="DotNET_Developer_Task.Tests.ProgramTests.CreateNewOrder_Successful" /><Add Test="DotNET_Developer_Task.Tests.ProgramTests.CreateNewOrder_Unsuccesful" /></Playlist>

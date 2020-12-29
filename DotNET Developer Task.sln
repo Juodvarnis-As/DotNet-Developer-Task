@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1300
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNET Developer Task", "DotNET Developer Task\DotNET Developer Task.csproj", "{11976650-6546-422E-B2E1-9E6F6A1F2AF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant Manager", "Restaurant Manager\Restaurant Manager.csproj", "{2432AEC8-F1B4-464A-AD64-B4B558A68F58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant ManagerTests", "Restaurant ManagerTests\Restaurant ManagerTests.csproj", "{1EA1835F-BEBE-40EA-8C4A-BA9BBD648D69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{11976650-6546-422E-B2E1-9E6F6A1F2AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{11976650-6546-422E-B2E1-9E6F6A1F2AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{11976650-6546-422E-B2E1-9E6F6A1F2AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{11976650-6546-422E-B2E1-9E6F6A1F2AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2432AEC8-F1B4-464A-AD64-B4B558A68F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2432AEC8-F1B4-464A-AD64-B4B558A68F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2432AEC8-F1B4-464A-AD64-B4B558A68F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2432AEC8-F1B4-464A-AD64-B4B558A68F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA1835F-BEBE-40EA-8C4A-BA9BBD648D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA1835F-BEBE-40EA-8C4A-BA9BBD648D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA1835F-BEBE-40EA-8C4A-BA9BBD648D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA1835F-BEBE-40EA-8C4A-BA9BBD648D69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

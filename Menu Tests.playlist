@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="DotNET_Developer_Task.Tests.ProgramTests.RemoveMenuItem_Unsuccessful" /><Add Test="DotNET_Developer_Task.Tests.ProgramTests.RemoveMenuItem_Successful" /><Add Test="DotNET_Developer_Task.Tests.ProgramTests.AddNewMenuItem" /><Add Test="DotNET_Developer_Task.Tests.ProgramTests.UpdateMenuItem" /></Playlist>

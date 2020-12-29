@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="DotNET_Developer_Task.Tests.ProgramTests.UpdateStockItem" /><Add Test="DotNET_Developer_Task.Tests.ProgramTests.AddNewStockItem" /><Add Test="DotNET_Developer_Task.Tests.ProgramTests.RemoveStockItem" /></Playlist>
